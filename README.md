@@ -4,11 +4,11 @@ This repository contains the documentation website for the 10 TeV Wakefield Coll
 
 ## Local Development Setup
 
-### 1. Install Conda (if not already installed)
+### Install Conda (if not already installed)
 
 If you don't have Conda installed, you can download it from the [official website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
-### 2. Create and Activate the Conda Environment
+### Create and Activate the Conda Environment
 
 ```bash
 # Create the environment from the environment.yml file
@@ -18,10 +18,17 @@ conda env create -f environment.yml
 conda activate 10tev-docs
 ```
 
-### 3. Run the Development Server
+### Clone this repository to your local computer
+
+```bash
+git clone https://github.com/10TeV-wakefield-collider/10TeV-wakefield-collider.github.io.git
+```
+
+### Run the Development Server
 
 ```bash
 # Start the MkDocs development server
+cd 10TeV-wakefield-collider.github.io
 mkdocs serve
 ```
 
@@ -31,13 +38,6 @@ http://127.0.0.1:8000
 ```
 
 The site will automatically reload whenever you make changes to the documentation.
-
-
-## Project Structure
-
-- `docs/` - Contains all the markdown files and assets
-- `mkdocs.yml` - Configuration file for MkDocs
-- `environment.yml` - Conda environment specification
 
 ## Adding Content
 
