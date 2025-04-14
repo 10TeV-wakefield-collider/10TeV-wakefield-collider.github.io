@@ -1,0 +1,21 @@
+nav:
+  - Home: index.md
+  - Events: events.md
+  - How to join: how_to_join.md
+
+site_name: 10 TeV Wakefield Collider Design Study
+
+theme:
+  name: 'material'
+  logo: assets/10_TeV_V5-02.png
+  palette:
+    scheme: black
+    primary: black
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+plugins:
+  - search
+  - minify
