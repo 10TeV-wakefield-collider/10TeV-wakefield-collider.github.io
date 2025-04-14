@@ -1,0 +1,11 @@
+name: 10tev-docs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - mkdocs
+    - mkdocs-material
+    - mkdocs-minify-plugin
