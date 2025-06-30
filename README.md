@@ -17,6 +17,7 @@ conda env create -f environment.yml
 # Activate the environment
 conda activate 10tev-docs
 ```
+Note that you have to create the file 'environment.yml' and copy it from [here]([url](https://github.com/10TeV-wakefield-collider/10TeV-wakefield-collider.github.io/blob/main/environment.yml)) first.
 
 ### Clone this repository to your local computer
 
