@@ -2,16 +2,20 @@ nav:
   - Home: index.md
   - Events: events.md
   - How to join: how_to_join.md
+  - Simulation guide: simulation_guide.md
 
 site_name: 10 TeV Wakefield Collider Design Study
 
-theme:
-  name: 'material'
+theme: 
+  name: material
   logo: assets/10_TeV_V5-02.png
+  favicon: assets/10_TeV_V5-01-black.png
   palette:
-    scheme: black
-    primary: black
-    accent: indigo
+    scheme: 10TeV
+
+  font: 
+    text: Poppins
+    code: Ubuntu Mono
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -19,3 +23,9 @@ theme:
 plugins:
   - search
   - minify
+
+markdown_extensions:
+  - attr_list
+  
+extra_css:
+  - stylesheets/extra.css
