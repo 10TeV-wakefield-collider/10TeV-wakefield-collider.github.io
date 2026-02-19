@@ -13,3 +13,6 @@ Publications organized by working group
 
 ## Beam Delivery System
 - [New Challenges in Plasma Accelerators: Final Focusing for Wakefield Colliders](https://arxiv.org/abs/2602.15777)
+
+## Beam-Driven Plasma Linac
+- [Effect of Synchrotron Radiation on Staged Plasma Wakefield Accelerators](https://arxiv.org/abs/2601.02272)
