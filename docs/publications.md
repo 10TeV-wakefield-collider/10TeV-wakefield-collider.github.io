@@ -6,6 +6,8 @@ Publications organized by working group
 
 ## Physics
 - [Searches for electroweak states at future plasma wakefield colliders](https://arxiv.org/abs/2512.09995)
+- [Vector Resonances at Muon and Wakefield Colliders](https://arxiv.org/abs/2603.18146)
+- [Higgs Couplings at a Future Wakefield Collider](https://arxiv.org/abs/2607.19463)
 
 ## Beam-Beam Interactions
 - [Analytical Approximations for Beamstrahlung at Very High Energy Electron-Positron Colliders](https://arxiv.org/abs/2511.20912)
