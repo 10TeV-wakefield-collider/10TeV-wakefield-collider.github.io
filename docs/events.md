@@ -11,5 +11,7 @@ A summary of upcoming events, as well as past events, that are relevant to this 
 - [ALEGRO 2026 Workshop, INFN Frascati](https://agenda.infn.it/event/47329/overview)
 
 ## 2025 ALEGRO Workshop Photo
-![10 TeV Plot](assets/ALEGRO.jpg)
+![ALEGRO 2025 Photo](assets/ALEGRO.jpg)
 
+## 2026 ALEGRO Workshop Photo
+![ALEGRO 2026 Photo](assets/ALEGRO2026.jpg)

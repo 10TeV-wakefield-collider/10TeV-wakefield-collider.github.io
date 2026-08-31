@@ -11,7 +11,7 @@ Publications organized by working group
 
 ## Beam-Beam Interactions
 - [Analytical Approximations for Beamstrahlung at Very High Energy Electron-Positron Colliders](https://arxiv.org/abs/2511.20912)
-- [Luminosity enhancement and interaction point characterization of a 10 TeV gamma-gamma collider using variable laser wavelengths]()
+- [Enhancing 10 TeV gamma-gamma collider luminosity through scattering-laser wavelength selection in the presence of prolific electron-positron pair production](https://arxiv.org/abs/2608.25137)
 
 ## Beam Delivery System
 - [New Challenges in Plasma Accelerators: Final Focusing for Wakefield Colliders](https://arxiv.org/abs/2602.15777)
